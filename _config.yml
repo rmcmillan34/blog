@@ -1,4 +1,6 @@
 title: Ryan's Blog
 author: Ryan McMillan
 description: An outlet to share my learning in all things cyber security, ethical hacking, programming, and machine learning.
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
