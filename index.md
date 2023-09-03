@@ -1,5 +1,6 @@
 ---
 title: Ryan's Cyber Security/Programming Blog
+layout: default
 ---
 
 Hey, I'm Ryan (RizzSec), and welcome to my blog. Since you are reading this, thank you for stopping by. I am currently studying for a Masters of Cyber Security, specialising in Security Engineering through the University of New South Wales (UNSW). My ultimate goal is to transition my career from an Electronics Technician to becoming an offensive security professional.
