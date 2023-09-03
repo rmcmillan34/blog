@@ -3,4 +3,4 @@ author: RizzSec
 description: An outlet to share my learning and projects in all things related to cyber security, ethical hacking, programming, and machine learning.
 #remote_theme: pages-themes/hacker@v0.2.0
 #plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have on
+#- jekyll-remote-theme # add this line to the plugins list if you already have on
